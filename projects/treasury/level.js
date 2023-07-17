@@ -29,8 +29,6 @@ module.exports = treasuryExports({
     ],
     owners: [
       '0x635aac65f37a6bbe06a2dde77b0fd2f1748674d4',
-      '0x6442b001c5acce8cb71986ad65b22684821a927a',
-      '0xdc8ee58cebff504ccf6222c55a8f27f6033dfec4',
       '0x4b47ef68180ec46a0b6be4d34fd9d8680bee2b2c',
     ],
     ownTokens: [LVL],
